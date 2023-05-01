@@ -27,27 +27,27 @@ Make sure to install expo on your andriod or iphone for this application to be a
 
 - Clone this Repository
     
-    > git clone 
+    >       git clone 
       
 - Install dependenices
    
-    > npm install
+    >       npm install
 
 - Test or run application 
     
-    > expo start or npm run start
+    >       expo start or npm run start
 
 - Test on mobile devices
-    > npm run ios
+    >       npm run ios
    
-    > npm run andrioid 
+    >       npm run andrioid 
    
-   > npm run web
+    >       npm run web
 
 - Create from scratch
     
-    > npx create-expo-app calculator
+    >       npx create-expo-app calculator
    
-    > cd into calculator application
+    >       cd into calculator application
    
 
